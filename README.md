@@ -1,10 +1,5 @@
 # Healthcare Appointment Scheduling App
 
-**Frontend**: [Live Demo](https://healthcarebooking.netlify.app/)  
-**Backend**: [API Endpoint](https://healthcare-appointment-scheduling-app.onrender.com)
-
----
-
 ## Overview
 A web application that facilitates appointment scheduling between patients and doctors, streamlining the booking process and ensuring a smooth healthcare experience for all users.
 
@@ -84,14 +79,6 @@ View feedback provided by patients.
 - **Secure Login**: Role-based authentication for patients and doctors.
 - **Appointment Management**: Efficient scheduling and status tracking.
 - **Feedback Mechanism**: Helps improve user experience.
-
----
-
-## How to Use
-1. Visit the frontend: [Healthcare Booking](https://healthcarebooking.netlify.app/).
-2. Log in as a **Patient** or **Doctor**.
-3. Book or manage appointments using the intuitive interface.
-4. Track past and upcoming appointments.
 
 ---
 
